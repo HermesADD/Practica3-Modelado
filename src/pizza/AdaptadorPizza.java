@@ -38,47 +38,47 @@ public class AdaptadorPizza implements Baguette{
 
     @Override
     public int getPollo() {
-        throw new RuntimeException("Porciones de ingredientes no contrables en la pizza");
+        throw new RuntimeException("Porciones de ingredientes no contables en la pizza");
     }
 
     @Override
     public int getPepperoni() {
-        throw new RuntimeException("Porciones de ingredientes no contrables en la pizza");
+        throw new RuntimeException("Porciones de ingredientes no contables en la pizza");
     }
 
     @Override
     public int getJamon() {
-        throw new RuntimeException("Porciones de ingredientes no contrables en la pizza");
+        throw new RuntimeException("Porciones de ingredientes no contables en la pizza");
     }
 
     @Override
     public int getLechuga() {
-        throw new RuntimeException("Porciones de ingredientes no contrables en la pizza");
+        throw new RuntimeException("Porciones de ingredientes no contables en la pizza");
     }
 
     @Override
     public int getJitomate() {
-        throw new RuntimeException("Porciones de ingredientes no contrables en la pizza");
+        throw new RuntimeException("Porciones de ingredientes no contables en la pizza");
     }
 
     @Override
     public int getCebolla() {
-        throw new RuntimeException("Porciones de ingredientes no contrables en la pizza");
+        throw new RuntimeException("Porciones de ingredientes no contables en la pizza");
     }
 
     @Override
     public int getMostaza() {
-        throw new RuntimeException("Porciones de ingredientes no contrables en la pizza");
+        throw new RuntimeException("Porciones de ingredientes no contables en la pizza");
     }
 
     @Override
     public int getCatsup() {
-        throw new RuntimeException("Porciones de ingredientes no contrables en la pizza");
+        throw new RuntimeException("Porciones de ingredientes no contables en la pizza");
     }
 
     @Override
     public int getMayonesa() {
-        throw new RuntimeException("Porciones de ingredientes no contrables en la pizza");
+        throw new RuntimeException("Porciones de ingredientes no contables en la pizza");
     }
     
 }
